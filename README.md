@@ -1,5 +1,10 @@
 # Seed Sowing Robot using Raspberry Pi Pico
 
+# Development Note
+
+This project codebase was primarily developed using vibe coding and iterative AI-assisted development, combined with hardware testing, debugging, and integration on Raspberry Pi Pico.
+
+
 A smart agricultural robot developed using Raspberry Pi Pico for automatic and accurate seed sowing.
 
 The robot is capable of:
@@ -234,3 +239,4 @@ main.py
 Win Lwin
 
 Robotics & Embedded Systems Enthusiast
+
