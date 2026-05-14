@@ -7,10 +7,10 @@ MAX_SPEED = 40000
 MIN_SPEED = 12000
 
 # correction strength
-KP = 400
+KP = 5
 
 # motor balancing
-LEFT_OFFSET = -1000
+LEFT_OFFSET = 3000
 RIGHT_OFFSET = 0
 
 # =========================
@@ -23,10 +23,10 @@ SLOTS = 20
 # WHEEL SETTINGS
 # =========================
 
-WHEEL_CIRCUMFERENCE = 20.4  # cm
+WHEEL_CIRCUMFERENCE = 20.4
 
 # seed spacing
-SEED_DISTANCE_CM = 20
+SEED_DISTANCE_CM = 80
 
 # =========================
 # ULTRASONIC

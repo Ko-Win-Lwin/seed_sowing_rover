@@ -138,9 +138,10 @@ while True:
     # ======================
 
     print(
-        "L:", left_pulses,
-        "R:", right_pulses,
-        "DIST:", distance_cm
-    )
+    "L:", left_pulses,
+    "R:", right_pulses,
+    "TRAVEL:", distance_cm,
+    "ULTRA:", dist
+)
 
     time.sleep(0.05)

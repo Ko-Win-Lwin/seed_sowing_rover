@@ -5,8 +5,8 @@ try:
 
     i2c = I2C(
         0,
-        scl=Pin(1),
-        sda=Pin(0),
+        scl=Pin(5),
+        sda=Pin(4),
         freq=400000
     )
 
